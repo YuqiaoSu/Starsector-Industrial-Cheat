@@ -1,0 +1,9 @@
+{
+  "id":"Ind_Cheat",
+	"name":"作弊工厂/Cheat Industry",
+	"author": "摸鱼的苏/Loafing Su",
+	"version":"0.03",
+	"description":"全能工厂/An industry that produce everything!",
+    "gameVersion":"0.95.1a-RC5",
+	"jars":["jars/Ind_Cheat.jar"]
+}

@@ -1,0 +1,12 @@
+id,name,cost mult,build time,income,upkeep,downgrade,upgrade,tags,data,image,plugin,desc,order
+Ind_Cheat_all,Cheat Industry All,1,3,,1,,,"mining, industry, industrial",,graphics/icons/industry/techmining.png,data.campaign.econ.industries.Ind_Cheat_all,A cheat factory that gives all powerful output and buffs.,9202
+Ind_Cheat_patrol,Cheat Industry Patrol,1,3,,1,,,"mining, industry, industrial",,graphics/icons/industry/high_command.png,data.campaign.econ.industries.Ind_Cheat_patrol,A cheat factory that increase patrol size and quality. ,9202
+Ind_Cheat_patrol_size,Cheat Industry only patrol size,1,3,,1,,,"mining, industry, industrial",,graphics/icons/industry/patrol_hq.png,data.campaign.econ.industries.Ind_Cheat_patrol_size,A cheat factory that gives only increased patrol size.,9202
+Ind_Cheat_profits,Cheat Industry profitable commodities,1,3,,1,,,"mining, industry, industrial",,graphics/icons/industry/aquaculture.png,data.campaign.econ.industries.Ind_Cheat_profits,"A cheat factory that only gives lobster and drug, which are the most profitable commodities.",9202
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,, ,,,,,
